@@ -1,16 +1,9 @@
-# pertemuan2
+# Pertemuan 2 - Layouting
 
-A new Flutter project.
+- Homepage: Basic elements (image, button, text field) and basic layouts (row, column)
+- GridView: Manual grid view
+- ListView: Manual list view
+- GridViewBuilder: Grid view with auto-generating children
+- ListViewBuilder: List view with auto-generating children
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Note: Jangan lupa itemCount kalau pake builder biar ga generate terus-terusan
